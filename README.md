@@ -1,2 +1,2 @@
-﻿# stake-plinko-main
+﻿# stake-plinko-game
 
